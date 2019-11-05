@@ -3,16 +3,16 @@ A curated list of fellowships and scholarships for graduate students in Computer
 
 
 ## Awards
-| Name          | Deadline      | Masters/PhD  |
+| Name          | Deadline      | Masters/PhD  | US Citizenship Req? |
 | ------------- |:-------------:| ------------:|
 | [ACM SIGAI Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/nominations) | October | PhD |
 
 
 ## Scholarships
-| Name          | Deadline      | Masters/PhD  |
+| Name          | Deadline      | Masters/PhD  | US Citizenship Req? |
 | ------------- |:-------------:| ------------:|
 | [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/#!?detail-content-tabby_activeEl=overview) | December | Both |
-| [Google Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | December | Both |
+| [Google Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | December | Both | No |
 | [NANOG Scholarship](https://www.nanog.org/outreach/scholarship-program/) | Varies | Both |
 | [National Society of Black Engineers](https://connect.nsbe.org/Scholarships/ScholarshipList.aspx) | Varies | Both |
 | [Oracle Academy](https://academy.oracle.com/en/about-scholarships.html) | Varies | Both |
@@ -22,7 +22,7 @@ A curated list of fellowships and scholarships for graduate students in Computer
 
 
 ## Fellowships 
-| Name          | Deadline      | Masters/PhD  |
+| Name          | Deadline      | Masters/PhD  | US Citizenship Req? |
 | ------------- |:-------------:| ------------:|
 | [ACM SIGHPC / Intel Computational & Data Science Fellowship](https://www.sighpc.org/fellowships) | April | Both |
 | [ACM-IEEE CS George Michael Memorial HPC Fellowship](https://awards.acm.org/hpc-fellows) | May | PhD |
